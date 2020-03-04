@@ -3,7 +3,7 @@ body {
 }
 
 #clock {
-  background: black;
+  background: rgb(228, 54, 54);
   color: white;
   font-family: sans-serif;
   font-size: 7.125em;
